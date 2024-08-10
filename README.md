@@ -58,4 +58,4 @@
 
 [instagram]: https://www.instagram.com/kunal.modi_
 [linkedin]: https://linkedin.com/in/kunal-modi-ab6636235
-[portfolio]: https://livewithcodeankit.vercel.app/
+[portfolio]: https://kunalmodi.vercel.app
